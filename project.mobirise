@@ -65,10 +65,10 @@
               "background-image": "url(@bg-value)"
             },
             "H3": {
-              "color": "#9de0e2"
+              "color": "#e27720"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#e27720"
+              "color": "#0f7699"
             },
             "H1": {
               "color": "#e27720",
